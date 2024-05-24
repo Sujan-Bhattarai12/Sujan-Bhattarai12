@@ -1,24 +1,17 @@
-<div id="header" style="text-align: center;">
+<div align="center">
   <img src="https://media2.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif?cid=ecf05e471znfcirjxm6vianun3sbijamo88oa489zph9lh30&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="200"/>
 </div>
 
-<div id="badges" style="text-align: center;">
+<div align="center">
   <a href="https://www.linkedin.com/in/bhattarai1/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 
-<h1 class="center">
+<div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+</div>
 
-<style>
-  .center {
-    text-align: center;
-    display: block;
-    margin: auto;
-  }
-</style>
 
 
 ## Updates:
