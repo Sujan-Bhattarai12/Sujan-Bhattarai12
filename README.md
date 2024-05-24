@@ -8,11 +8,17 @@
   </a>
 </div>
 
-<div style="text-align: center;">
-  <h1>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-</div>
+<h1 class="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+<style>
+  .center {
+    text-align: center;
+    display: block;
+    margin: auto;
+  }
+</style>
 
 
 ## Updates:
