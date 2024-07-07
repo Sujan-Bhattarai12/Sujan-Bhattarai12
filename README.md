@@ -35,18 +35,7 @@
 11. Bash Scripting 📜
 12. Web Development 🌐
 
-
-## Blogs:
-
-[Forecasting Air-Quality Emission](https://sujan-bhattarai12.github.io/posts/southAsia_crop/) 🌬️
-
-[Geospatial Analysis](https://sujan-bhattarai12.github.io/posts/economic_zone/) 🗺️
-
-[Artificial Intelligence and Nature Conservation](https://sujan-bhattarai12.github.io/posts/12-09-2020-AI-ethics/) 🌿
-
 ## Statistics:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sujan-bhattarai12&theme=dark&background=000000)](https://git.io/streak-stats?v=1) 📈
 
 ### Thanks for Visiting
-If you have come this far, revise Hadoop CLI(HDFS DFS) commands, extremely useful if you are using SQL for Big data analysis)
-[Apache_CLI](https://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-common/FileSystemShell.html)
