@@ -15,10 +15,10 @@
 
 
 ## Updates:
-   🖥️ Working on 4TB data on NCAR supercomputer, for developing Machine Learning model and a web-interactive dashboard<br>
-   🚀 Learning Big Data System with Apache Hive & Impala<br>
-   📚 Reading Machine Learning with Scikit Learn book by O'Reilly<br>
-   🌐 Initiating a new Python project for a new blog in ML 
+   🖥️ Worked on 4TB data on NCAR supercomputer, for developing Machine Learning model and a web-interactive dashboard<br>
+   🚀 Learnt Big Data System with Apache Hive & Impala<br>
+   📚 Read Machine Learning with Scikit Learn book by O'Reilly<br>
+   🌐 Initiated a new Python project for a new blog in ML 
 
 
 ## Tech Skills
@@ -32,8 +32,6 @@
 8. Geospatial Analysis 🌍
 9. Data Mining ⛏️
 10. High performance computing 🚀
-11. Bash Scripting 📜
-12. Web Development 🌐
 
 ## Statistics:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sujan-bhattarai12&theme=dark&background=000000)](https://git.io/streak-stats?v=1) 📈
